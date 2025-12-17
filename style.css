@@ -2,3 +2,15 @@ a {
     text-decoration: none;
     color: black;
 }
+
+.resume {
+    border: solid;
+    width: 100%;
+    overflow: auto;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    border-radius: 15px;
+    display: flex;
+    align-items: center; 
+    justify-content: center; 
+}
